@@ -1,0 +1,16 @@
+-----------------------------
+How to install on terminal
+-----------------------------
+*Recommended python: 3.6.x*
+*Install pip if you don't have it*
+
+pip install --upgrade pip
+pip install tensorflow
+pip install Keras
+pip install pandas
+pip install numpy
+pip install h5py
+pip install statistics
+pip install opencv-python
+pip install matplotlib
+pip install ipython pyzmq tornado
