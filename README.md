@@ -6,7 +6,6 @@ Shoot the Apple is an adaptive game made in unity by Abdallah Itani and Yi Zhang
 FPS players control their stress levels during shooting games. To make sure of that, the game your are about
 to play will detect your facial expressions and change difficulty accordingly, in real time.
 
-# Go to ShootTheApple directory to run the game
 
-# **KNOWN ISSUES:**
+**KNOWN ISSUES:**
 No known issues so far
