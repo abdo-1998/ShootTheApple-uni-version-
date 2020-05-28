@@ -28,4 +28,4 @@ and if it shows HAPPY/SURPIRSE the game variables will be back to normal.
 ---------------------------------------------------------------------
 How to close the facial expression tool with no freezing errors:
 ---------------------------------------------------------------------
-CTRL + C in main scene (during a round)
+Close the CMD (don't close the camera window) or CTRL + C in main scene (during a round)
